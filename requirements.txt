@@ -1,0 +1,31 @@
+# Core LLM & API
+groq
+openai
+
+# PDF processing
+PyMuPDF
+
+# Embedding model
+sentence-transformers
+torch
+
+# Graph + vector search
+networkx
+leidenalg
+faiss-cpu
+
+# Graph tools
+igraph
+
+# Env variables
+python-dotenv
+
+# Frontend
+streamlit
+
+# Audio output
+gTTS
+
+# Other utilities
+scikit-learn
+tqdm
